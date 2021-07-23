@@ -38,3 +38,7 @@ main {
         background-size: cover;
         background-repeat: no-repeat
 }
+
+.food-gallery {
+        background: black;
+}
