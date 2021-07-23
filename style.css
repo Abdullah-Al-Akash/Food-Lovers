@@ -68,5 +68,14 @@ main {
 .enjoy-best-meal {
         background: url(images/bg/Rectangle.png);
         background-size: cover;
-        height: 600px;
+}
+
+footer {
+        background: black;
+}
+
+footer .fill-color {
+        color: white;
+        font-size: 25px;
+        padding: 0 8px;
 }
