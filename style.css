@@ -32,3 +32,9 @@ nav ul li a {
 main {
         background: black;
 }
+
+.food-quality {
+        background: url(images/bg/Shape.jpg);
+        background-size: cover;
+        background-repeat: no-repeat
+}
