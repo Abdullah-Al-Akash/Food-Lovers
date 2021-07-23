@@ -42,3 +42,30 @@ main {
 .food-gallery {
         background: black;
 }
+
+.enjoy-our-food {
+        background: url(images/bg/main-bg.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+}
+
+.enjoy-food-details {
+        height: 700px;
+}
+
+.enjoy-food-text {
+        border: 5px solid rgb(229, 143, 0)
+}
+
+.menu-part {
+        background: black;
+}
+
+.menu-title {
+        color: rgb(229, 143, 0);
+}
+
+.enjoy-best-meal {
+        background: url(images/bg/Rectangle.png);
+        height: 300px;
+}
