@@ -1,3 +1,21 @@
+* {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+}
+
+body {
+        width: 100%;
+}
+
+html {
+        scroll-behavior: smooth;
+}
+
+.nav-background {
+        background: black;
+}
+
 header {
         background: linear-gradient( rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)), url(images/bg/main-bg.png);
         background-repeat: no-repeat;
@@ -9,8 +27,12 @@ nav ul li a {
         font-weight: 700;
 }
 
+.banner-part {
+        margin-top: 150px;
+}
+
 .main-text {
-        font-size: 60px;
+        font-size: 50px;
         font-weight: bold;
         color: rgb(229, 143, 0);
 }
