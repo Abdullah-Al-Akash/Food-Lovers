@@ -6,6 +6,7 @@
 
 body {
         width: 100%;
+        font-family: 'Rubik', sans-serif;
 }
 
 html {
@@ -32,7 +33,7 @@ nav ul li a {
 }
 
 .main-text {
-        font-size: 50px;
+        font-size: 45px;
         font-weight: bold;
         color: rgb(229, 143, 0);
 }
