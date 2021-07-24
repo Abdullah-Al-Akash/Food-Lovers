@@ -26,10 +26,11 @@ header {
 
 nav ul li a {
         font-weight: 700;
+        font-size: 20px;
 }
 
 .banner-part {
-        margin-top: 150px;
+        margin-top: 90px;
 }
 
 .main-text {
@@ -40,7 +41,7 @@ nav ul li a {
 
 .main-p {
         font-size: 18px;
-        font-weight: 600;
+        font-weight: 500;
         color: white
 }
 
@@ -64,6 +65,12 @@ main {
 
 .food-gallery {
         background: black;
+}
+
+.gallery-image:hover {
+        color: black;
+        opacity: 0.5;
+        cursor: pointer;
 }
 
 .enjoy-our-food {
