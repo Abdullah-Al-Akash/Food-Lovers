@@ -1,3 +1,5 @@
+/* Commont Style Sheet */
+
 * {
         margin: 0;
         padding: 0;
@@ -12,6 +14,8 @@ body {
 html {
         scroll-behavior: smooth;
 }
+
+/* Main Part Stylesheet */
 
 .nav-background {
         background: black;
@@ -109,3 +113,5 @@ footer .fill-color {
         font-size: 25px;
         padding: 0 8px;
 }
+
+/* Stylesheet Complete */
